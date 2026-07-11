@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=280&section=header&text=IMRAN%20GHAFOOR&fontSize=62&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=%7C%20AI%20%26%20ML%20Engineer%20%7C&descAlignY=60&descSize=24" width="100%"/>]
+[[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=280&section=header&text=IMRAN%20GHAFOOR&fontSize=62&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=%7C%20AI%20%26%20ML%20Engineer%20%7C&descAlignY=60&descSize=24" width="100%"/>]](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=300&section=header&text=IMRAN%20GHAFOOR&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=AI%20ML%20Engineer&descAlignY=58&descSize=24)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Deep+Learning+%7C+Computer+Vision;Python+%7C+SQL+%7C+MongoDB+%7C+Neo4j;Turning+Research+into+Real+Models" alt="Typing SVG" />
@@ -30,9 +30,9 @@
 
 ---
 
-##About Me
+## About Me
 
-<img align="right" width="270" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/eea3b562-1cd9-4a83-8c1b-5db3ca7c94eb.gif" />
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
 
 I'm an **AI & Machine Learning enthusiast**, currently focused on turning research-grade deep learning models into real, usable tools — not just notebooks that end at a confusion matrix.
 
