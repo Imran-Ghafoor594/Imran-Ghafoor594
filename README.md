@@ -218,15 +218,17 @@ Completed an internship focused on applied AI/ML, working on practical machine l
 </div>
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Imran-Ghafoor594&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8A2BE2&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imran-Ghafoor594&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imran-Ghafoor594&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran-Ghafoor594&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Imran-Ghafoor594&theme=radical&hide_border=true"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran-Ghafoor594&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
