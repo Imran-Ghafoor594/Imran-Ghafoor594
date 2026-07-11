@@ -32,8 +32,6 @@
 
 ## About Me
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
-
 I'm an **AI & Machine Learning enthusiast**, currently focused on turning research-grade deep learning models into real, usable tools — not just notebooks that end at a confusion matrix.
 
 - Deep interest in **Computer Vision** and **transfer learning**, with hands-on work fine-tuning CNN backbones (EfficientNet, MobileNet, ResNet) for real-world classification problems.
@@ -240,17 +238,7 @@ Completed an internship focused on applied AI/ML, working on practical machine l
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Imran-Ghafoor594/Imran-Ghafoor594/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 ## Current Focus
 
