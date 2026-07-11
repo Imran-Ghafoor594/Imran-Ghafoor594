@@ -222,13 +222,7 @@ Completed an internship focused on applied AI/ML, working on practical machine l
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imran-Ghafoor594&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
 <img height="180em" src="https://streak-stats.demolab.com?user=Imran-Ghafoor594&theme=radical&hide_border=true"/>
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran-Ghafoor594&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -273,7 +267,7 @@ Open To:
 [![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meimranghafoor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranghafoor56)
 [![GitHub](https://img.shields.io/badge/GitHub-9400D3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imran-Ghafoor594)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](Comming Soon)
 
 </div>
 
