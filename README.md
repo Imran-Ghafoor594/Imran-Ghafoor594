@@ -1,5 +1,7 @@
 <div align="center">
 
+# Imran Ghafoor
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Imran%20Ghafoor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -74,7 +76,7 @@ Open To:
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,pycharm,spyder,jupyter&theme=dark" />
 
 </div>
 
