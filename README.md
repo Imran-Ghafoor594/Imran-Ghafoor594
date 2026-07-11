@@ -1,9 +1,7 @@
 <div align="center">
-
-# Imran Ghafoor
+Imran Ghafoor
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Imran%20Ghafoor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Deep+Learning+%7C+Computer+Vision;Python+%7C+SQL+%7C+MongoDB+%7C+Neo4j;Turning+Research+into+Real+Models" alt="Typing SVG" />
 </a>
