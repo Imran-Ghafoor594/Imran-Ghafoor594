@@ -1,8 +1,6 @@
 <div align="center">
 
-# Imran Ghafoor
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=280&section=header&text=IMRAN%20GHAFOOR&fontSize=62&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=%7C%20AI%20%26%20ML%20Engineer%20%7C&descAlignY=60&descSize=24" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=280&section=header&text=IMRAN%20GHAFOOR&fontSize=62&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=%7C%20AI%20%26%20ML%20Engineer%20%7C&descAlignY=60&descSize=24" width="100%"/>]
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Deep+Learning+%7C+Computer+Vision;Python+%7C+SQL+%7C+MongoDB+%7C+Neo4j;Turning+Research+into+Real+Models" alt="Typing SVG" />
@@ -32,17 +30,17 @@
 
 ---
 
-## 🧬 About Me
+##About Me
 
 <img align="right" width="270" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/eea3b562-1cd9-4a83-8c1b-5db3ca7c94eb.gif" />
 
 I'm an **AI & Machine Learning enthusiast**, currently focused on turning research-grade deep learning models into real, usable tools — not just notebooks that end at a confusion matrix.
 
-- 🧠 Deep interest in **Computer Vision** and **transfer learning**, with hands-on work fine-tuning CNN backbones (EfficientNet, MobileNet, ResNet) for real-world classification problems.
-- 🐍 Core toolkit: **Python**, with **SQL**, **MongoDB**, and **Neo4j** for structured and graph-based data handling.
-- 🤖 Builder of practical AI tools: voice assistants, desktop chat agents, and applied computer-vision projects.
-- 📊 Hands-on with real datasets and competitions — from Kaggle challenges to applied classification problems.
-- 📚 Currently a student, learning in public and sharpening my AI/ML skills through projects, internships, and certifications.
+- Deep interest in **Computer Vision** and **transfer learning**, with hands-on work fine-tuning CNN backbones (EfficientNet, MobileNet, ResNet) for real-world classification problems.
+- Core toolkit: **Python**, with **SQL**, **MongoDB**, and **Neo4j** for structured and graph-based data handling.
+- Built AI applications including a voice assistant, desktop chatbot, and computer vision solutions using Python and deep learning.
+- Hands-on with real datasets and competitions — from Kaggle challenges to applied classification problems.
+- Computer Science student continuously strengthening AI/ML expertise through hands-on projects, internships, and professional certifications.
 
 <br/>
 
@@ -58,7 +56,7 @@ Open To:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -82,14 +80,14 @@ Open To:
 
 ---
 
-## 🧠 AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Computer Vision** | ⭐⭐⭐⭐☆ | Transfer learning on CNN backbones (EfficientNetB0, MobileNetV2, ResNet50) for image classification |
-| **Deep Learning** | ⭐⭐⭐⭐☆ | TensorFlow / Keras — two-phase training (frozen head → fine-tuning), data augmentation pipelines |
+| **Computer Vision** | ⭐⭐⭐☆☆ | Transfer learning on CNN backbones (EfficientNetB0, MobileNetV2, ResNet50) for image classification |
+| **Deep Learning** | ⭐⭐⭐☆☆ | TensorFlow / Keras — two-phase training (frozen head → fine-tuning), data augmentation pipelines |
 | **Model Deployment** | ⭐⭐⭐☆☆ | Serving `.keras` models through Flask REST endpoints with real-time inference |
 | **NLP / Conversational AI** | ⭐⭐⭐☆☆ | Voice assistant and chatbot development with intent handling and speech I/O |
 | **Data Processing** | ⭐⭐⭐⭐☆ | OpenCV, pandas, NumPy for preprocessing, augmentation, and evaluation pipelines |
@@ -99,7 +97,7 @@ Open To:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
 <summary><b>🌿 PlantScan AI — Plant Disease Detection</b></summary>
@@ -121,7 +119,7 @@ This project goes beyond a typical training notebook — it includes a full two-
 </details>
 
 <details>
-<summary><b>🎙️ Jarvis — AI Voice Assistant</b></summary>
+<summary><b>Jarvis — AI Voice Assistant</b></summary>
 <br/>
 
 A Python-based AI voice assistant capable of understanding spoken commands and responding with speech, built as a hands-on exploration of speech recognition, intent handling, and conversational automation.
@@ -138,7 +136,7 @@ A Python-based AI voice assistant capable of understanding spoken commands and r
 </details>
 
 <details>
-<summary><b>🤖 RoboImmi — AI-Powered Desktop Chatbot</b></summary>
+<summary><b>RoboImmi — AI-Powered Desktop Chatbot</b></summary>
 <br/>
 
 An AI-powered desktop chatbot built in Python, designed to hold conversations and assist with everyday desktop tasks through a conversational interface.
@@ -156,7 +154,7 @@ An AI-powered desktop chatbot built in Python, designed to hold conversations an
 
 ---
 
-## 💼 Experience
+## Experience
 
 <details>
 <summary><b>AI Intern @ DecodeLabs</b></summary>
@@ -184,7 +182,7 @@ Completed an internship focused on applied AI/ML, working on practical machine l
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -197,9 +195,7 @@ Completed an internship focused on applied AI/ML, working on practical machine l
 
 ---
 
-## 📜 Certifications
-
-> *Certificates are kept in a `certificates/` folder in this repo — click a badge to open the PDF. Update file names below to match your actual PDF file names.*
+## Certifications
 
 **IBM**
 
@@ -215,22 +211,17 @@ Completed an internship focused on applied AI/ML, working on practical machine l
 
 ---
 
-## 💻 Coding Profiles
-
-> *Link these once you have active profiles — badges are pre-wired, just update the usernames.*
+## Coding Profiles
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-your--handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-your--handle-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -241,19 +232,7 @@ Completed an internship focused on applied AI/ML, working on practical machine l
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Imran-Ghafoor594&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -273,7 +252,7 @@ Completed an internship focused on applied AI/ML, working on practical machine l
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
@@ -297,7 +276,7 @@ Open To:
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
