@@ -47,7 +47,6 @@ Open To:
   - Internships in AI / ML
   - Open Source Collaboration
   - Research-driven ML projects
-  - Freelance / Contract work on applied ML models
 ```
 
 <br clear="right"/>
@@ -267,7 +266,7 @@ Open To:
 [![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meimranghafoor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranghafoor56)
 [![GitHub](https://img.shields.io/badge/GitHub-9400D3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imran-Ghafoor594)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](Comming Soon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
