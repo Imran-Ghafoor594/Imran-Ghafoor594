@@ -15,6 +15,9 @@
 <a href="https://github.com/Imran-Ghafoor594" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=%23ffffff" alt="GitHub" height="45"/>
 </a>
+<a href="mailto:meimranghafoor@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email me" height="45"/>
+</a>
 
 </div>
 
@@ -30,7 +33,7 @@
 
 > $\color{#0A84FF}\textbf{\textsf{Merging AI intelligence with real-world applications.}}$
 
-I am a $\color{#0A84FF}\textbf{\textsf{BS Artificial Intelligence student}}$ at Riphah International University (CGPA 3.74/4.0), currently working as a $\color{#0A84FF}\textbf{\textsf{Machine Learning Intern}}$ at Neuro Five Solutions. I specialize in building practical ML/AI systems — from image classification to predictive modeling and intelligent assistants.
+I am a $\color{#0A84FF}\textbf{\textsf{BS Artificial Intelligence student}}$ at Riphah International University (CGPA 3.74/4.0), Work as a $\color{#0A84FF}\textbf{\textsf{Machine Learning Intern}}$ at Neuro Five Solutions and Teyzix core. I specialize in building practical ML/AI systems — from image classification to predictive modeling and intelligent assistants.
 
 - $\color{#0A84FF}\textbf{\textsf{Currently building:}}$ Computer vision and predictive ML projects with TensorFlow, PyTorch, and scikit-learn.
 - $\color{#0A84FF}\textbf{\textsf{Leveling up on:}}$ Deep learning, full-stack ML deployment, and graph databases with Neo4j.
