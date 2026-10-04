@@ -18,6 +18,9 @@
 <a href="mailto:meimranghafoor@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email me" height="45"/>
 </a>
+<a href="https://imranghafoor.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" height="45"/>
+</a>
 
 </div>
 
