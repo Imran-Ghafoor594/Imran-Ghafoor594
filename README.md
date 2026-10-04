@@ -33,7 +33,7 @@
 
 > $\color{#0A84FF}\textbf{\textsf{Merging AI intelligence with real-world applications.}}$
 
-I am a $\color{#0A84FF}\textbf{\textsf{BS Artificial Intelligence student}}$ at Riphah International University (CGPA 3.74/4.0), Work as a $\color{#0A84FF}\textbf{\textsf{Machine Learning Intern}}$ at Neuro Five Solutions and Teyzix core. I specialize in building practical ML/AI systems — from image classification to predictive modeling and intelligent assistants.
+I am a 3rd year $\color{#0A84FF}\textbf{\textsf{BS Artificial Intelligence student}}$ at Riphah International University, Worked as a $\color{#0A84FF}\textbf{\textsf{Machine Learning Intern}}$ at Neuro Five Solutions and Teyzix core. I specialize in building practical ML/AI systems — from image classification to predictive modeling and intelligent assistants.
 
 - $\color{#0A84FF}\textbf{\textsf{Currently building:}}$ Computer vision and predictive ML projects with TensorFlow, PyTorch, and scikit-learn.
 - $\color{#0A84FF}\textbf{\textsf{Leveling up on:}}$ Deep learning, full-stack ML deployment, and graph databases with Neo4j.
