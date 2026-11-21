@@ -50,6 +50,8 @@ I am a 3rd year $\color{#0A84FF}\textbf{\textsf{BS Artificial Intelligence stude
 
 ---
 
+[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/Imran+Ghafoor.svg)](https://coderlegion.com/user/Imran+Ghafoor)
+
 ## Tech Stack & Tools
 
 <div align="center">
