@@ -48,9 +48,11 @@ I am a 3rd year $\color{#0A84FF}\textbf{\textsf{BS Artificial Intelligence stude
 
 </div>
 
----
-My Coder Legion profile status:
-       [![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/Imran+Ghafoor.svg)](https://coderlegion.com/user/Imran+Ghafoor)
+## Developer Community
+
+[![CoderLegion](https://coderlegion.com/profile-stats-badge/Imran+Ghafoor.svg)](https://coderlegion.com/user/Imran+Ghafoor)
+
+I share technical posts, insights, and knowledge with the developer community on Coder Legion.
 
 ## Tech Stack & Tools
 
