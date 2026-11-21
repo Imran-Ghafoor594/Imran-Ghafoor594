@@ -48,16 +48,6 @@ I am a 3rd year $\color{#0A84FF}\textbf{\textsf{BS Artificial Intelligence stude
 
 </div>
 
-## Developer Community
-
-
-<p align="center">
-  <a href="https://coderlegion.com/user/Imran+Ghafoor">
-    <img src="https://coderlegion.com/profile-stats-badge/Imran+Ghafoor.svg" width="750" alt="Coder Legion Stats" />
-  </a>
-</p>
-
-I share technical posts, insights, and knowledge with the developer community on Coder Legion.
 
 ## Tech Stack & Tools
 
@@ -86,6 +76,17 @@ Here are a few of the projects I am most proud of, spanning computer vision, pre
 
 
 ---
+
+## Developer Community
+
+
+<p align="center">
+  <a href="https://coderlegion.com/user/Imran+Ghafoor">
+    <img src="https://coderlegion.com/profile-stats-badge/Imran+Ghafoor.svg" width="750" alt="Coder Legion Stats" />
+  </a>
+</p>
+
+I share technical posts, insights, and knowledge with the developer community on Coder Legion.
 
 ## GitHub Analytics
 
