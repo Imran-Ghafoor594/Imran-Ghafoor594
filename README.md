@@ -50,7 +50,12 @@ I am a 3rd year $\color{#0A84FF}\textbf{\textsf{BS Artificial Intelligence stude
 
 ## Developer Community
 
-[![CoderLegion](https://coderlegion.com/profile-stats-badge/Imran+Ghafoor.svg)](https://coderlegion.com/user/Imran+Ghafoor)
+
+<p align="center">
+  <a href="https://coderlegion.com/user/Imran+Ghafoor">
+    <img src="https://coderlegion.com/profile-stats-badge/Imran+Ghafoor.svg" width="450" alt="Coder Legion Stats" />
+  </a>
+</p>
 
 I share technical posts, insights, and knowledge with the developer community on Coder Legion.
 
