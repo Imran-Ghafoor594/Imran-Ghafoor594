@@ -53,7 +53,7 @@ I am a 3rd year $\color{#0A84FF}\textbf{\textsf{BS Artificial Intelligence stude
 
 <p align="center">
   <a href="https://coderlegion.com/user/Imran+Ghafoor">
-    <img src="https://coderlegion.com/profile-stats-badge/Imran+Ghafoor.svg" width="650" alt="Coder Legion Stats" />
+    <img src="https://coderlegion.com/profile-stats-badge/Imran+Ghafoor.svg" width="850" alt="Coder Legion Stats" />
   </a>
 </p>
 
