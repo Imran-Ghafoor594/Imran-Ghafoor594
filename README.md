@@ -26,6 +26,32 @@
 
 ---
 
+
+---
+
+<div align="center">
+
+## Meet My AI Assistant
+
+**Curious about my AI/ML projects, technical skills, education, or professional experience?**
+
+Meet **Imran AI**, my personal AI-powered portfolio assistant.
+
+<p>
+  <a href="https://imranghafoor.vercel.app/chat">
+    <img src="https://img.shields.io/badge/Chat%20with%20Imran%20AI-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Chat with Imran AI" />
+  </a>
+</p>
+
+🎙️ **Voice Interaction** &nbsp; | &nbsp; 🧠 **TF-IDF + Groq AI** &nbsp; | &nbsp; 🔒 **Privacy-Focused**
+
+*Explore my work through intelligent, interactive conversations.*
+
+</div>
+
+---
+
+
 <div display=flex >
 <div>
 <img src="lanyard.svg?v=1" width="200" align="right" alt="Imran Ghafoor developer ID badge" />
